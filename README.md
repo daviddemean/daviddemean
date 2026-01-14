@@ -1,16 +1,21 @@
-  <p><a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/mast.png?token=AQWYXGQRCKRPQSNKPDQT4ZDAUYRQ2" alt="MastHead"></a></p>
-<h1 id="hello-there--i-am-arjun-meena">Hello there! 👋🏻 I am Arjun Meena! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"></h1>
-<p>I am Arjun Meena 🙋🏻‍♂️, a Cat Lover, Self taught front end developer, Web Designer.
-I am looking to collaborate with others on Reactjs.
-I am learning and contributing more to Open Source projects.
-I am currenty working on React Project.</p>
-<h2 id="connect-with-me">Connect with Me 🤝🏻</h2>
-<p><a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY" alt="Website"></a> <a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg?token=AQWYXGRESHQDYV3VM6GGCPDAUYRX2" alt="LinkedIn"></a> <a href="https://github.com/arjunMee"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG" alt="GitHub"></a> <a href="https://www.facebook.com/arjun.bu12/"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4" alt="Facebook"></a> <a href="https://www.instagram.com/arjun.meena12/"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA" alt="Instagram"></a> <a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW" alt="WhatsApp"></a></p>
-<p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=arjunMee&amp;show_icons=true" alt="Arjun GitHub Statistics"></p>
-<!-- | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunMee) | -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunMee" alt="Arjun GitHub Streak"></p>
-<p><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"></p>
-<hr>
-<p><a href="https://github.com/arjunMee">arjunMee</a></p>
-<p>Last Edited on: 20/05/2021</p> 
+<h1 align="center">Hi hackers, I'm David Demean</h1>
+<h3 align="center">A Passionate Penetration Tester | Bug Bounty Hunter</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddemean&label=Profile%20views&color=0e75b6&style=flat" alt="daviddemean" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddemean" alt="daviddemean" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviddemean&show_icons=true&locale=en&layout=compact" alt="daviddemean" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddemean&show_icons=true&locale=en" alt="daviddemean" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddemean&" alt="daviddemean" /></p>
