@@ -4,11 +4,7 @@
 ---
 
 ## 📖 About Me
-I am a dedicated **Bug Bounty Hunter** and **Web Penetration Tester** operating strictly within authorized scopes. I specialize in identifying complex vulnerabilities and advanced exploitation vectors. My mission is to ensure digital security through professional and legal security research.
-
-- 🔭 **Current Focus:** Weaponizing advanced Web Vulnerabilities & Recon Automation.
-- ⚡ **Philosophy:** I don't just find bugs; I decode the logic behind the code to secure the digital world.
-- 🎯 **Mission:** Escalating from a researcher to an Elite Security Architect.
+I’m a passionate security researcher focused on identifying vulnerabilities and helping secure the web. I love diving deep into complex systems and building tools to automate the "boring" stuff.
 
 ---
 
