@@ -6,6 +6,8 @@
 ## 📖 About Me
 ### I’m a passionate security researcher focused on identifying vulnerabilities and helping secure the web. I love diving deep into complex systems and building tools to automate the "boring" stuff.
 
+---
+
 ## 🛠️ Skills & Tools
 
 ### 💻 Security Testing & OS
@@ -23,6 +25,5 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white)](YOUR_HACKERONE_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-demean-93a4b0302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddemean23@gmail.com)
