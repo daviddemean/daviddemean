@@ -4,7 +4,7 @@
 ---
 
 ## 📖 About Me
-### I’m a passionate security researcher focused on identifying vulnerabilities and helping secure the web. I love diving deep into complex systems and building tools to automate the "boring" stuff.---
+### I’m a passionate security researcher focused on identifying vulnerabilities and helping secure the web. I love diving deep into complex systems and building tools to automate the "boring" stuff.
 
 ## 🛠️ Skills & Tools
 
