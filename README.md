@@ -1,15 +1,16 @@
-# 💫 About Me:
-👋 About Me<br>I am a Web Penetration Tester and Bug Bounty Hunter focused on deconstructing application logic and discovering high-impact vulnerabilities. I specialize in manual deep-dives and custom automation to identify complex flaws that automated tools miss.<br><br>Driven by a "Security-First" mindset, I operate strictly within authorized scopes to help organizations harden their defenses through professional offensive research.<br><br>🚀 What I Hunt<br>Manual Web & API Pentesting (Deep-dive analysis).<br><br>Business Logic Flaws & Advanced Bypass Techniques.<br><br>Security Automation (Custom Python & Go Tooling).<br><br>Exploit Development & PoC Creation.
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidDemean&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DavidDemean&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDemean&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DavidDemean&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <p><a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/mast.png?token=AQWYXGQRCKRPQSNKPDQT4ZDAUYRQ2" alt="MastHead"></a></p>
+<h1 id="hello-there--i-am-arjun-meena">Hello there! 👋🏻 I am Arjun Meena! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"></h1>
+<p>I am Arjun Meena 🙋🏻‍♂️, a Cat Lover, Self taught front end developer, Web Designer.
+I am looking to collaborate with others on Reactjs.
+I am learning and contributing more to Open Source projects.
+I am currenty working on React Project.</p>
+<h2 id="connect-with-me">Connect with Me 🤝🏻</h2>
+<p><a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY" alt="Website"></a> <a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/li.svg?token=AQWYXGRESHQDYV3VM6GGCPDAUYRX2" alt="LinkedIn"></a> <a href="https://github.com/arjunMee"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG" alt="GitHub"></a> <a href="https://www.facebook.com/arjun.bu12/"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4" alt="Facebook"></a> <a href="https://www.instagram.com/arjun.meena12/"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA" alt="Instagram"></a> <a href=""><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/wa.svg?token=AQWYXGUNIDZSRF74LZPBPTTAUYRYW" alt="WhatsApp"></a></p>
+<p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=arjunMee&amp;show_icons=true" alt="Arjun GitHub Statistics"></p>
+<!-- | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunMee) | -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunMee" alt="Arjun GitHub Streak"></p>
+<p><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"></p>
+<hr>
+<p><a href="https://github.com/arjunMee">arjunMee</a></p>
+<p>Last Edited on: 20/05/2021</p> 
