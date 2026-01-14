@@ -1,63 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Web Penetration Tester | Bug Bounty Hunter
 
-<!--# David Demian
 
-### Web Penetration Tester & Bug Bounty Hunter
-**Security Research • Vulnerability Assessment • Intelligent Automation**
-
----
-
-### 👋 Overview
-I am a dedicated **Security Researcher** and **Web Penetration Tester**. I operate strictly within authorized scopes, ensuring all my security research is legal and professional. My focus is on identifying complex security flaws and helping organizations secure their digital infrastructure.
-
-I specialize in deconstructing application logic, finding chainable vulnerabilities, and developing custom scripts to stay ahead of the curve with the newest exploitation vectors.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daviddemean&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=daviddemean&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddemean&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=daviddemean&icon=8&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 What I Build & Hunt
-* **Applied Web & API Security**
-  Deep-dive manual testing across the OWASP Top 10 and beyond.
-* **Logic Flaws & Advanced Bypasses**
-  Identifying critical business logic vulnerabilities and bypass techniques.
-* **Security Automation**
-  Building custom tools and pipelines for efficient reconnaissance.
-* **Exploit Development**
-  Creating Proof of Concepts (PoCs) for high-impact vulnerabilities.
-
----
-
-### 📌 Featured Work
-Selected repositories showcasing security tools and research:
-* **Security Tooling:** Custom scripts for automated recon and fuzzing.
-* **Bug Bounty Write-ups:** Detailed documentation of discovered vulnerabilities.
-* **Research & Labs:** Technical analysis of new exploitation techniques.
-
----
-
-### 🛠 Technical Skills
-
-**Security Core**
-![Web](https://img.shields.io/badge/-Web_Pentesting-red) ![Burp](https://img.shields.io/badge/-Burp_Suite-orange) ![API](https://img.shields.io/badge/-API_Security-blue)
-
-**Programming & Tools**
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-### 📫 Connect with me:
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR_PROFILE_URL)
-
-⭐ **Always hunting. Always learning. Always securing.**
-**daviddemean/daviddemean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
