@@ -26,10 +26,8 @@
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/david-demean-93a4b0302">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-demean-93a4b0302)
 
-<a href="mailto:daviddemean23@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=daviddemean23@gmail.com&su=Security Inquiry" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
