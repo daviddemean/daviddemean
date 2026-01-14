@@ -1,4 +1,4 @@
-# Hi hackers, I'm David Demian 👋
+# Hi hackers, I'm David Demean 
 ### 🛡️ Bug Bounty Hunter | Web Penetration Tester
 
 ---
